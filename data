@@ -1,0 +1,32 @@
+[
+  {
+    "Date": "2023-01-01",
+    "Product": "Product A",
+    "Quantity": 100,
+    "Revenue": 1000
+  },
+  {
+    "Date": "2023-01-02",
+    "Product": "Product B",
+    "Quantity": 75,
+    "Revenue": 750
+  },
+  {
+    "Date": "2023-01-03",
+    "Product": "Product A",
+    "Quantity": 120,
+    "Revenue": 1200
+  },
+  {
+    "Date": "2023-01-04",
+    "Product": "Product C",
+    "Quantity": 50,
+    "Revenue": 500
+  },
+  {
+    "Date": "2023-01-05",
+    "Product": "Product B",
+    "Quantity": 90,
+    "Revenue": 900
+  }
+]
